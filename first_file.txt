@@ -1,2 +1,6 @@
 This is my first File
+<<<<<<< HEAD
 hello and hi
+=======
+helo
+>>>>>>> 948ec013d3956d6013b12e31baccaa321037fdf4
