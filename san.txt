@@ -1,0 +1,6 @@
+ hi santosh
+ red
+ green
+ blue
+ white
+
